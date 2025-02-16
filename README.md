@@ -1,5 +1,4 @@
 # Foreign-Direct-Investment-Analysis
-# **Foreign Direct Investment (FDI) Analysis**  
 
 ## **Project Overview**  
 This project analyzes **Foreign Direct Investment (FDI) inflows** across various **sectors and time periods** to uncover key investment trends and insights. Using **Python**, we explore sectoral distributions, yearly investment growth, and correlations between policy changes and investment patterns to provide data-driven recommendations for stakeholders and policymakers.  
