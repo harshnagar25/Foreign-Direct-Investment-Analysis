@@ -55,11 +55,4 @@ The dataset contains:
 ✅ Introduce **outlier detection** to identify investment anomalies.  
 ✅ Expand the dataset to **include post-2017 investment trends**.  
 
----  
-
-## **Installation & Usage**  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/harshnagar25/fdi-analysis.git  
-   ```
 
